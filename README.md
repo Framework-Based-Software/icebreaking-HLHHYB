@@ -3,7 +3,7 @@
 Hi! I'm [He Lihong], a student in the Framework-Based Software Design and Development course. 
 I [expect to learn a lot about modern software maintenance practices and how to work with legacy systems].
 
-![My Image](image.jpg)  <!-- Link to the uploaded image -->
+![My Image](https://github.com/Framework-Based-Software/icebreaking-HLHHYB/blob/profile-upload/1%E5%AF%B8%E7%AC%91.JPG) <!-- Link to the uploaded image -->
 
 ## GitHub Profile
 
